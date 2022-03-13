@@ -21,7 +21,7 @@ class Development(Config):
   # Do python string_session.py and fill the on screen prompts.
   # String session will be saved in your saved message of telegram.
   # Put that string here.
-eviral_STRING = "1BJWap1wBuzdeTXB6rRs-AhQYYSl0NApctmdr39ZCTNyjizmpc2ljLOU8gsy_6LT4cl6bpnNID8ThtGg9K6k9-cJ4KOhJx986CFrWfJMq3dEmac9kOxFBGFK5UFN2dpszWEOX-17kDz1idx5mrKM8-zBSdylR842xGLB0ZMknvCquBPA0pchTcakLZxykMuzbUcl2thv6yvZrlwnEqVTAqqiqWSCslKdnyREQEO8QOw41y2UaCmajx4yK9dl1pbVrX7NtrKV_Nzb0Xad-qRnulXVywKjLwO1UTv2l7cejPIFkhgpVkrjMWHy_T1t8Az4Z_jD-1gwrMDoR_3zXLrlR8aa5eh-rzzU="
+  eviral_STRING = "1BJWap1wBuzdeTXB6rRs-AhQYYSl0NApctmdr39ZCTNyjizmpc2ljLOU8gsy_6LT4cl6bpnNID8ThtGg9K6k9-cJ4KOhJx986CFrWfJMq3dEmac9kOxFBGFK5UFN2dpszWEOX-17kDz1idx5mrKM8-zBSdylR842xGLB0ZMknvCquBPA0pchTcakLZxykMuzbUcl2thv6yvZrlwnEqVTAqqiqWSCslKdnyREQEO8QOw41y2UaCmajx4yK9dl1pbVrX7NtrKV_Nzb0Xad-qRnulXVywKjLwO1UTv2l7cejPIFkhgpVkrjMWHy_T1t8Az4Z_jD-1gwrMDoR_3zXLrlR8aa5eh-rzzU="
 
   # Create a bot in @botfather and fill the following values with bot token and username.
   BOT_TOKEN = "5225210101:AAGnQ2V2wDU_9o7pLI7Qg42iPaKO7oj54wM" #token
