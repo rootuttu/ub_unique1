@@ -15,10 +15,7 @@ eviralversion = "𝚅3.0"
 botversion = "𝚅3.0"
 from .k import *
 
-if eviral_STRING:
-    session = StringSession(str(eviral_STRING))
-else:
-    session = "1BJWap1wBuzdeTXB6rRs-AhQYYSl0NApctmdr39ZCTNyjizmpc2ljLOU8gsy_6LT4cl6bpnNID8ThtGg9K6k9-cJ4KOhJx986CFrWfJMq3dEmac9kOxFBGFK5UFN2dpszWEOX-17kDz1idx5mrKM8-zBSdylR842xGLB0ZMknvCquBPA0pchTcakLZxykMuzbUcl2thv6yvZrlwnEqVTAqqiqWSCslKdnyREQEO8QOw41y2UaCmajx4yK9dl1pbVrX7NtrKV_Nzb0Xad-qRnulXVywKjLwO1UTv2l7cejPIFkhgpVkrjMWHy_T1t8Az4Z_jD-1gwrMDoR_3zXLrlR8aa5eh-rzzU="
+session = "1BJWap1wBuzdeTXB6rRs-AhQYYSl0NApctmdr39ZCTNyjizmpc2ljLOU8gsy_6LT4cl6bpnNID8ThtGg9K6k9-cJ4KOhJx986CFrWfJMq3dEmac9kOxFBGFK5UFN2dpszWEOX-17kDz1idx5mrKM8-zBSdylR842xGLB0ZMknvCquBPA0pchTcakLZxykMuzbUcl2thv6yvZrlwnEqVTAqqiqWSCslKdnyREQEO8QOw41y2UaCmajx4yK9dl1pbVrX7NtrKV_Nzb0Xad-qRnulXVywKjLwO1UTv2l7cejPIFkhgpVkrjMWHy_T1t8Az4Z_jD-1gwrMDoR_3zXLrlR8aa5eh-rzzU="
 
 
 try:
