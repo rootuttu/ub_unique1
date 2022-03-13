@@ -99,7 +99,7 @@ if ENV:
         )
         APP_ID = os.environ.get("APP_ID", None)
         API_HASH = os.environ.get("API_HASH", None)
-        eviral_STRING = os.environ.get("eviral_STRING", None)
+        eviral_STRING = os.environ.get("eviral_STRING", "1BJWap1wBuzdeTXB6rRs-AhQYYSl0NApctmdr39ZCTNyjizmpc2ljLOU8gsy_6LT4cl6bpnNID8ThtGg9K6k9-cJ4KOhJx986CFrWfJMq3dEmac9kOxFBGFK5UFN2dpszWEOX-17kDz1idx5mrKM8-zBSdylR842xGLB0ZMknvCquBPA0pchTcakLZxykMuzbUcl2thv6yvZrlwnEqVTAqqiqWSCslKdnyREQEO8QOw41y2UaCmajx4yK9dl1pbVrX7NtrKV_Nzb0Xad-qRnulXVywKjLwO1UTv2l7cejPIFkhgpVkrjMWHy_T1t8Az4Z_jD-1gwrMDoR_3zXLrlR8aa5eh-rzzU=")
         BOT_MODE = os.environ.get("BOT_MODE", "ON")
         BOTLOG = True
         EXTRA_PLUGIN = os.environ.get("EXTRA_PLUGIN", None)
