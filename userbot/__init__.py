@@ -15,8 +15,8 @@ eviralversion = "𝚅3.0"
 botversion = "𝚅3.0"
 from .k import *
 
-if Config.eviral_STRING:
-    session = StringSession(str(Config.eviral_STRING))
+if Config.STRING:
+    session = StringSession(str(Config.STRING))
 else:
     session = "FIREX"
     
@@ -31,7 +31,7 @@ try:
         connection_retries=None,
     )
 except Exception as e:
-    print(f"eviral_STRING - {e}")
+    print(f"STRING - {e}")
     sys.exit()
 
 
